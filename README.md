@@ -9,17 +9,17 @@
 ```
 stm32-G4-Demo/
 ├── 001_Led_Key/                # 主要应用代码
-├── .idea/                       # CLion IDE 配置文件
-├── cmake-build-debug/           # 构建目录
-├── Core/                        # 核心功能代码
-├── Drivers/                     # 外设驱动代码
-├── myApp/                       # 应用程序代码
-├── myDrivers/                   # 自定义驱动代码
-├── .gitignore                   # Git 忽略文件
-├── LICENSE                      # 开源许可证文件
-├── README.md                    # 项目说明文件
-├── CMakeLists.txt               # CMake 构建配置文件
-└── 001_Led_Key.ioc              # STM32CubeMX 配置文件
+   ├── .idea/                       # CLion IDE 配置文件
+   ├── cmake-build-debug/           # 构建目录
+   ├── Core/                        # 核心功能代码
+   ├── Drivers/                     # 外设驱动代码
+   ├── myApp/                       # 应用程序代码
+   ├── myDrivers/                   # 自定义驱动代码
+   ├── .gitignore                   # Git 忽略文件
+   ├── LICENSE                      # 开源许可证文件
+   ├── README.md                    # 项目说明文件
+   ├── CMakeLists.txt               # CMake 构建配置文件
+   └── 001_Led_Key.ioc              # STM32CubeMX 配置文件
 ```
 
 ## 前提条件
