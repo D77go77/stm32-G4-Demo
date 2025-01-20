@@ -20,7 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd199740-4eef-4c52-b071-8c8f5136d599" name="更改" comment="" />
+    <list default="true" id="92ca6d1b-6253-4656-8d46-4504bfa86354" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +32,9 @@
   <component name="EmbeddedSvdWindowState">
     <option name="columnWidths">
       <list>
-        <option value="212" />
-        <option value="92" />
-        <option value="1073" />
+        <option value="187" />
+        <option value="82" />
+        <option value="1159" />
       </list>
     </option>
     <option name="columnOrder">
@@ -46,26 +46,26 @@
     </option>
     <option name="loadedFiles">
       <list>
-        <option value="C:/Software/Keilv5/Keil/Pack/Keil/STM32G4xx_DFP/1.2.0/CMSIS/SVD/STM32G431xx.svd" />
+        <option value="$PROJECT_DIR$/STM32G431xx.svd" />
       </list>
     </option>
     <option name="nodes">
       <map>
         <entry key="STM32G431xx.svd" value="-E" />
-        <entry key="STM32G431xx.svd|g:ADC" value="-C" />
-        <entry key="STM32G431xx.svd|g:DAC" value="-C" />
-        <entry key="STM32G431xx.svd|g:DMA" value="-C" />
-        <entry key="STM32G431xx.svd|g:FDCAN" value="-C" />
-        <entry key="STM32G431xx.svd|g:FPU" value="-C" />
+        <entry key="STM32G431xx.svd|g:ADC" value="-E" />
+        <entry key="STM32G431xx.svd|g:DAC" value="-E" />
+        <entry key="STM32G431xx.svd|g:DMA" value="-E" />
+        <entry key="STM32G431xx.svd|g:FDCAN" value="-E" />
+        <entry key="STM32G431xx.svd|g:FPU" value="-E" />
         <entry key="STM32G431xx.svd|g:GPIO" value="-E" />
-        <entry key="STM32G431xx.svd|g:I2C" value="-C" />
-        <entry key="STM32G431xx.svd|g:NVIC" value="-C" />
-        <entry key="STM32G431xx.svd|g:SCB" value="-C" />
-        <entry key="STM32G431xx.svd|g:SPI" value="-C" />
-        <entry key="STM32G431xx.svd|g:TIM" value="-C" />
-        <entry key="STM32G431xx.svd|g:USART" value="-C" />
-        <entry key="STM32G431xx.svd|p:ADC1" value="-C" />
-        <entry key="STM32G431xx.svd|p:ADC12_Common" value="-C" />
+        <entry key="STM32G431xx.svd|g:I2C" value="-E" />
+        <entry key="STM32G431xx.svd|g:NVIC" value="-E" />
+        <entry key="STM32G431xx.svd|g:SCB" value="-E" />
+        <entry key="STM32G431xx.svd|g:SPI" value="-E" />
+        <entry key="STM32G431xx.svd|g:TIM" value="-E" />
+        <entry key="STM32G431xx.svd|g:USART" value="-E" />
+        <entry key="STM32G431xx.svd|p:ADC1" value="-E" />
+        <entry key="STM32G431xx.svd|p:ADC12_Common" value="-E" />
         <entry key="STM32G431xx.svd|p:ADC12_Common|CCR" value="HC" />
         <entry key="STM32G431xx.svd|p:ADC12_Common|CDR" value="HC" />
         <entry key="STM32G431xx.svd|p:ADC12_Common|CSR" value="HC" />
@@ -98,7 +98,7 @@
         <entry key="STM32G431xx.svd|p:ADC1|TR1" value="HC" />
         <entry key="STM32G431xx.svd|p:ADC1|TR2" value="HC" />
         <entry key="STM32G431xx.svd|p:ADC1|TR3" value="HC" />
-        <entry key="STM32G431xx.svd|p:ADC2" value="-C" />
+        <entry key="STM32G431xx.svd|p:ADC2" value="-E" />
         <entry key="STM32G431xx.svd|p:ADC2|AWD2CR" value="HC" />
         <entry key="STM32G431xx.svd|p:ADC2|AWD3CR" value="HC" />
         <entry key="STM32G431xx.svd|p:ADC2|CALFACT" value="HC" />
@@ -128,11 +128,11 @@
         <entry key="STM32G431xx.svd|p:ADC2|TR1" value="HC" />
         <entry key="STM32G431xx.svd|p:ADC2|TR2" value="HC" />
         <entry key="STM32G431xx.svd|p:ADC2|TR3" value="HC" />
-        <entry key="STM32G431xx.svd|p:ADC345_Common" value="-C" />
+        <entry key="STM32G431xx.svd|p:ADC345_Common" value="-E" />
         <entry key="STM32G431xx.svd|p:ADC345_Common|CCR" value="HC" />
         <entry key="STM32G431xx.svd|p:ADC345_Common|CDR" value="HC" />
         <entry key="STM32G431xx.svd|p:ADC345_Common|CSR" value="HC" />
-        <entry key="STM32G431xx.svd|p:AES" value="-C" />
+        <entry key="STM32G431xx.svd|p:AES" value="-E" />
         <entry key="STM32G431xx.svd|p:AES|CR" value="HC" />
         <entry key="STM32G431xx.svd|p:AES|DINR" value="HC" />
         <entry key="STM32G431xx.svd|p:AES|DOUTR" value="HC" />
@@ -157,27 +157,27 @@
         <entry key="STM32G431xx.svd|p:AES|SUSP5R" value="HC" />
         <entry key="STM32G431xx.svd|p:AES|SUSP6R" value="HC" />
         <entry key="STM32G431xx.svd|p:AES|SUSP7R" value="HC" />
-        <entry key="STM32G431xx.svd|p:COMP" value="-C" />
+        <entry key="STM32G431xx.svd|p:COMP" value="-E" />
         <entry key="STM32G431xx.svd|p:COMP|COMP_C1CSR" value="HC" />
         <entry key="STM32G431xx.svd|p:COMP|COMP_C2CSR" value="HC" />
         <entry key="STM32G431xx.svd|p:COMP|COMP_C3CSR" value="HC" />
         <entry key="STM32G431xx.svd|p:COMP|COMP_C4CSR" value="HC" />
-        <entry key="STM32G431xx.svd|p:CORDIC" value="-C" />
+        <entry key="STM32G431xx.svd|p:CORDIC" value="-E" />
         <entry key="STM32G431xx.svd|p:CORDIC|CSR" value="HC" />
         <entry key="STM32G431xx.svd|p:CORDIC|RDATA" value="HC" />
         <entry key="STM32G431xx.svd|p:CORDIC|WDATA" value="HC" />
-        <entry key="STM32G431xx.svd|p:CRC" value="-C" />
+        <entry key="STM32G431xx.svd|p:CRC" value="-E" />
         <entry key="STM32G431xx.svd|p:CRC|CR" value="HC" />
         <entry key="STM32G431xx.svd|p:CRC|DR" value="HC" />
         <entry key="STM32G431xx.svd|p:CRC|IDR" value="HC" />
         <entry key="STM32G431xx.svd|p:CRC|INIT" value="HC" />
         <entry key="STM32G431xx.svd|p:CRC|POL" value="HC" />
-        <entry key="STM32G431xx.svd|p:CRS" value="-C" />
+        <entry key="STM32G431xx.svd|p:CRS" value="-E" />
         <entry key="STM32G431xx.svd|p:CRS|CFGR" value="HC" />
         <entry key="STM32G431xx.svd|p:CRS|CR" value="HC" />
         <entry key="STM32G431xx.svd|p:CRS|ICR" value="HC" />
         <entry key="STM32G431xx.svd|p:CRS|ISR" value="HC" />
-        <entry key="STM32G431xx.svd|p:DAC1" value="-C" />
+        <entry key="STM32G431xx.svd|p:DAC1" value="-E" />
         <entry key="STM32G431xx.svd|p:DAC1|DAC_CCR" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC1|DAC_CR" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC1|DAC_DHR12L1" value="HC" />
@@ -201,7 +201,7 @@
         <entry key="STM32G431xx.svd|p:DAC1|DAC_STR1" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC1|DAC_STR2" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC1|DAC_SWTRGR" value="HC" />
-        <entry key="STM32G431xx.svd|p:DAC2" value="-C" />
+        <entry key="STM32G431xx.svd|p:DAC2" value="-E" />
         <entry key="STM32G431xx.svd|p:DAC2|DAC_CCR" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC2|DAC_CR" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC2|DAC_DHR12L1" value="HC" />
@@ -225,7 +225,7 @@
         <entry key="STM32G431xx.svd|p:DAC2|DAC_STR1" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC2|DAC_STR2" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC2|DAC_SWTRGR" value="HC" />
-        <entry key="STM32G431xx.svd|p:DAC3" value="-C" />
+        <entry key="STM32G431xx.svd|p:DAC3" value="-E" />
         <entry key="STM32G431xx.svd|p:DAC3|DAC_CCR" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC3|DAC_CR" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC3|DAC_DHR12L1" value="HC" />
@@ -249,7 +249,7 @@
         <entry key="STM32G431xx.svd|p:DAC3|DAC_STR1" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC3|DAC_STR2" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC3|DAC_SWTRGR" value="HC" />
-        <entry key="STM32G431xx.svd|p:DAC4" value="-C" />
+        <entry key="STM32G431xx.svd|p:DAC4" value="-E" />
         <entry key="STM32G431xx.svd|p:DAC4|DAC_CCR" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC4|DAC_CR" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC4|DAC_DHR12L1" value="HC" />
@@ -273,13 +273,13 @@
         <entry key="STM32G431xx.svd|p:DAC4|DAC_STR1" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC4|DAC_STR2" value="HC" />
         <entry key="STM32G431xx.svd|p:DAC4|DAC_SWTRGR" value="HC" />
-        <entry key="STM32G431xx.svd|p:DBGMCU" value="-C" />
+        <entry key="STM32G431xx.svd|p:DBGMCU" value="-E" />
         <entry key="STM32G431xx.svd|p:DBGMCU|APB1H_FZ" value="HC" />
         <entry key="STM32G431xx.svd|p:DBGMCU|APB1L_FZ" value="HC" />
         <entry key="STM32G431xx.svd|p:DBGMCU|APB2_FZ" value="HC" />
         <entry key="STM32G431xx.svd|p:DBGMCU|CR" value="HC" />
         <entry key="STM32G431xx.svd|p:DBGMCU|IDCODE" value="HC" />
-        <entry key="STM32G431xx.svd|p:DMA1" value="-C" />
+        <entry key="STM32G431xx.svd|p:DMA1" value="-E" />
         <entry key="STM32G431xx.svd|p:DMA1|CCR1" value="HC" />
         <entry key="STM32G431xx.svd|p:DMA1|CCR2" value="HC" />
         <entry key="STM32G431xx.svd|p:DMA1|CCR3" value="HC" />
@@ -314,7 +314,7 @@
         <entry key="STM32G431xx.svd|p:DMA1|CPAR8" value="HC" />
         <entry key="STM32G431xx.svd|p:DMA1|IFCR" value="HC" />
         <entry key="STM32G431xx.svd|p:DMA1|ISR" value="HC" />
-        <entry key="STM32G431xx.svd|p:DMA2" value="-C" />
+        <entry key="STM32G431xx.svd|p:DMA2" value="-E" />
         <entry key="STM32G431xx.svd|p:DMA2|CCR1" value="HC" />
         <entry key="STM32G431xx.svd|p:DMA2|CCR2" value="HC" />
         <entry key="STM32G431xx.svd|p:DMA2|CCR3" value="HC" />
@@ -349,7 +349,7 @@
         <entry key="STM32G431xx.svd|p:DMA2|CPAR8" value="HC" />
         <entry key="STM32G431xx.svd|p:DMA2|IFCR" value="HC" />
         <entry key="STM32G431xx.svd|p:DMA2|ISR" value="HC" />
-        <entry key="STM32G431xx.svd|p:DMAMUX" value="-C" />
+        <entry key="STM32G431xx.svd|p:DMAMUX" value="-E" />
         <entry key="STM32G431xx.svd|p:DMAMUX|C0CR" value="HC" />
         <entry key="STM32G431xx.svd|p:DMAMUX|C10CR" value="HC" />
         <entry key="STM32G431xx.svd|p:DMAMUX|C11CR" value="HC" />
@@ -374,7 +374,7 @@
         <entry key="STM32G431xx.svd|p:DMAMUX|RG3CR" value="HC" />
         <entry key="STM32G431xx.svd|p:DMAMUX|RGCFR" value="HC" />
         <entry key="STM32G431xx.svd|p:DMAMUX|RGSR" value="HC" />
-        <entry key="STM32G431xx.svd|p:EXTI" value="-C" />
+        <entry key="STM32G431xx.svd|p:EXTI" value="-E" />
         <entry key="STM32G431xx.svd|p:EXTI|EMR1" value="HC" />
         <entry key="STM32G431xx.svd|p:EXTI|EMR2" value="HC" />
         <entry key="STM32G431xx.svd|p:EXTI|FTSR1" value="HC" />
@@ -387,8 +387,8 @@
         <entry key="STM32G431xx.svd|p:EXTI|RTSR2" value="HC" />
         <entry key="STM32G431xx.svd|p:EXTI|SWIER1" value="HC" />
         <entry key="STM32G431xx.svd|p:EXTI|SWIER2" value="HC" />
-        <entry key="STM32G431xx.svd|p:FDCAN" value="-C" />
-        <entry key="STM32G431xx.svd|p:FDCAN1" value="-C" />
+        <entry key="STM32G431xx.svd|p:FDCAN" value="-E" />
+        <entry key="STM32G431xx.svd|p:FDCAN1" value="-E" />
         <entry key="STM32G431xx.svd|p:FDCAN1|CCCR" value="HC" />
         <entry key="STM32G431xx.svd|p:FDCAN1|CKDIV" value="HC" />
         <entry key="STM32G431xx.svd|p:FDCAN1|CREL" value="HC" />
@@ -463,7 +463,7 @@
         <entry key="STM32G431xx.svd|p:FDCAN|TXEFS" value="HC" />
         <entry key="STM32G431xx.svd|p:FDCAN|TXFQS" value="HC" />
         <entry key="STM32G431xx.svd|p:FDCAN|XIDAM" value="HC" />
-        <entry key="STM32G431xx.svd|p:FLASH" value="-C" />
+        <entry key="STM32G431xx.svd|p:FLASH" value="-E" />
         <entry key="STM32G431xx.svd|p:FLASH|ACR" value="HC" />
         <entry key="STM32G431xx.svd|p:FLASH|CR" value="HC" />
         <entry key="STM32G431xx.svd|p:FLASH|ECCR" value="HC" />
@@ -477,7 +477,7 @@
         <entry key="STM32G431xx.svd|p:FLASH|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:FLASH|WRP1AR" value="HC" />
         <entry key="STM32G431xx.svd|p:FLASH|WRP1BR" value="HC" />
-        <entry key="STM32G431xx.svd|p:FMAC" value="-C" />
+        <entry key="STM32G431xx.svd|p:FMAC" value="-E" />
         <entry key="STM32G431xx.svd|p:FMAC|CR" value="HC" />
         <entry key="STM32G431xx.svd|p:FMAC|PARAM" value="HC" />
         <entry key="STM32G431xx.svd|p:FMAC|RDATA" value="HC" />
@@ -486,13 +486,13 @@
         <entry key="STM32G431xx.svd|p:FMAC|X1BUFCFG" value="HC" />
         <entry key="STM32G431xx.svd|p:FMAC|X2BUFCFG" value="HC" />
         <entry key="STM32G431xx.svd|p:FMAC|YBUFCFG" value="HC" />
-        <entry key="STM32G431xx.svd|p:FPU" value="-C" />
-        <entry key="STM32G431xx.svd|p:FPU_CPACR" value="-C" />
+        <entry key="STM32G431xx.svd|p:FPU" value="-E" />
+        <entry key="STM32G431xx.svd|p:FPU_CPACR" value="-E" />
         <entry key="STM32G431xx.svd|p:FPU_CPACR|CPACR" value="HC" />
         <entry key="STM32G431xx.svd|p:FPU|FPCAR" value="HC" />
         <entry key="STM32G431xx.svd|p:FPU|FPCCR" value="HC" />
         <entry key="STM32G431xx.svd|p:FPU|FPSCR" value="HC" />
-        <entry key="STM32G431xx.svd|p:GPIOA" value="-C" />
+        <entry key="STM32G431xx.svd|p:GPIOA" value="-E" />
         <entry key="STM32G431xx.svd|p:GPIOA|AFRH" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOA|AFRL" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOA|BRR" value="HC" />
@@ -504,7 +504,7 @@
         <entry key="STM32G431xx.svd|p:GPIOA|OSPEEDR" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOA|OTYPER" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOA|PUPDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:GPIOB" value="-C" />
+        <entry key="STM32G431xx.svd|p:GPIOB" value="-E" />
         <entry key="STM32G431xx.svd|p:GPIOB|AFRH" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOB|AFRL" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOB|BRR" value="HC" />
@@ -516,7 +516,7 @@
         <entry key="STM32G431xx.svd|p:GPIOB|OSPEEDR" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOB|OTYPER" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOB|PUPDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:GPIOC" value="-C" />
+        <entry key="STM32G431xx.svd|p:GPIOC" value="-E" />
         <entry key="STM32G431xx.svd|p:GPIOC|AFRH" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOC|AFRL" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOC|BRR" value="HC" />
@@ -528,7 +528,7 @@
         <entry key="STM32G431xx.svd|p:GPIOC|OSPEEDR" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOC|OTYPER" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOC|PUPDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:GPIOD" value="-C" />
+        <entry key="STM32G431xx.svd|p:GPIOD" value="-E" />
         <entry key="STM32G431xx.svd|p:GPIOD|AFRH" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOD|AFRL" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOD|BRR" value="HC" />
@@ -540,7 +540,7 @@
         <entry key="STM32G431xx.svd|p:GPIOD|OSPEEDR" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOD|OTYPER" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOD|PUPDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:GPIOE" value="-C" />
+        <entry key="STM32G431xx.svd|p:GPIOE" value="-E" />
         <entry key="STM32G431xx.svd|p:GPIOE|AFRH" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOE|AFRL" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOE|BRR" value="HC" />
@@ -552,7 +552,7 @@
         <entry key="STM32G431xx.svd|p:GPIOE|OSPEEDR" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOE|OTYPER" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOE|PUPDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:GPIOF" value="-C" />
+        <entry key="STM32G431xx.svd|p:GPIOF" value="-E" />
         <entry key="STM32G431xx.svd|p:GPIOF|AFRH" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOF|AFRL" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOF|BRR" value="HC" />
@@ -564,7 +564,7 @@
         <entry key="STM32G431xx.svd|p:GPIOF|OSPEEDR" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOF|OTYPER" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOF|PUPDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:GPIOG" value="-C" />
+        <entry key="STM32G431xx.svd|p:GPIOG" value="-E" />
         <entry key="STM32G431xx.svd|p:GPIOG|AFRH" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOG|AFRL" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOG|BRR" value="HC" />
@@ -576,7 +576,7 @@
         <entry key="STM32G431xx.svd|p:GPIOG|OSPEEDR" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOG|OTYPER" value="HC" />
         <entry key="STM32G431xx.svd|p:GPIOG|PUPDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:I2C1" value="-C" />
+        <entry key="STM32G431xx.svd|p:I2C1" value="-E" />
         <entry key="STM32G431xx.svd|p:I2C1|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C1|CR2" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C1|ICR" value="HC" />
@@ -588,7 +588,7 @@
         <entry key="STM32G431xx.svd|p:I2C1|TIMEOUTR" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C1|TIMINGR" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C1|TXDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:I2C2" value="-C" />
+        <entry key="STM32G431xx.svd|p:I2C2" value="-E" />
         <entry key="STM32G431xx.svd|p:I2C2|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C2|CR2" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C2|ICR" value="HC" />
@@ -600,7 +600,7 @@
         <entry key="STM32G431xx.svd|p:I2C2|TIMEOUTR" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C2|TIMINGR" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C2|TXDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:I2C3" value="-C" />
+        <entry key="STM32G431xx.svd|p:I2C3" value="-E" />
         <entry key="STM32G431xx.svd|p:I2C3|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C3|CR2" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C3|ICR" value="HC" />
@@ -612,13 +612,13 @@
         <entry key="STM32G431xx.svd|p:I2C3|TIMEOUTR" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C3|TIMINGR" value="HC" />
         <entry key="STM32G431xx.svd|p:I2C3|TXDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:IWDG" value="-C" />
+        <entry key="STM32G431xx.svd|p:IWDG" value="-E" />
         <entry key="STM32G431xx.svd|p:IWDG|KR" value="HC" />
         <entry key="STM32G431xx.svd|p:IWDG|PR" value="HC" />
         <entry key="STM32G431xx.svd|p:IWDG|RLR" value="HC" />
         <entry key="STM32G431xx.svd|p:IWDG|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:IWDG|WINR" value="HC" />
-        <entry key="STM32G431xx.svd|p:LPTIMER1" value="-C" />
+        <entry key="STM32G431xx.svd|p:LPTIMER1" value="-E" />
         <entry key="STM32G431xx.svd|p:LPTIMER1|ARR" value="HC" />
         <entry key="STM32G431xx.svd|p:LPTIMER1|CFGR" value="HC" />
         <entry key="STM32G431xx.svd|p:LPTIMER1|CMP" value="HC" />
@@ -628,7 +628,7 @@
         <entry key="STM32G431xx.svd|p:LPTIMER1|IER" value="HC" />
         <entry key="STM32G431xx.svd|p:LPTIMER1|ISR" value="HC" />
         <entry key="STM32G431xx.svd|p:LPTIMER1|OR" value="HC" />
-        <entry key="STM32G431xx.svd|p:LPUART1" value="-C" />
+        <entry key="STM32G431xx.svd|p:LPUART1" value="-E" />
         <entry key="STM32G431xx.svd|p:LPUART1|BRR" value="HC" />
         <entry key="STM32G431xx.svd|p:LPUART1|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:LPUART1|CR2" value="HC" />
@@ -639,14 +639,14 @@
         <entry key="STM32G431xx.svd|p:LPUART1|RDR" value="HC" />
         <entry key="STM32G431xx.svd|p:LPUART1|RQR" value="HC" />
         <entry key="STM32G431xx.svd|p:LPUART1|TDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:MPU" value="-C" />
+        <entry key="STM32G431xx.svd|p:MPU" value="-E" />
         <entry key="STM32G431xx.svd|p:MPU|CTRL" value="HC" />
         <entry key="STM32G431xx.svd|p:MPU|RASR" value="HC" />
         <entry key="STM32G431xx.svd|p:MPU|RBAR" value="HC" />
         <entry key="STM32G431xx.svd|p:MPU|RNR" value="HC" />
         <entry key="STM32G431xx.svd|p:MPU|TYPER" value="HC" />
-        <entry key="STM32G431xx.svd|p:NVIC" value="-C" />
-        <entry key="STM32G431xx.svd|p:NVIC_STIR" value="-C" />
+        <entry key="STM32G431xx.svd|p:NVIC" value="-E" />
+        <entry key="STM32G431xx.svd|p:NVIC_STIR" value="-E" />
         <entry key="STM32G431xx.svd|p:NVIC_STIR|STIR" value="HC" />
         <entry key="STM32G431xx.svd|p:NVIC|IABR0" value="HC" />
         <entry key="STM32G431xx.svd|p:NVIC|IABR1" value="HC" />
@@ -694,14 +694,14 @@
         <entry key="STM32G431xx.svd|p:NVIC|ISPR1" value="HC" />
         <entry key="STM32G431xx.svd|p:NVIC|ISPR2" value="HC" />
         <entry key="STM32G431xx.svd|p:NVIC|ISPR3" value="HC" />
-        <entry key="STM32G431xx.svd|p:OPAMP" value="-C" />
+        <entry key="STM32G431xx.svd|p:OPAMP" value="-E" />
         <entry key="STM32G431xx.svd|p:OPAMP|OPAMP1_CSR" value="HC" />
         <entry key="STM32G431xx.svd|p:OPAMP|OPAMP1_TCMR" value="HC" />
         <entry key="STM32G431xx.svd|p:OPAMP|OPAMP2_CSR" value="HC" />
         <entry key="STM32G431xx.svd|p:OPAMP|OPAMP2_TCMR" value="HC" />
         <entry key="STM32G431xx.svd|p:OPAMP|OPAMP3_CSR" value="HC" />
         <entry key="STM32G431xx.svd|p:OPAMP|OPAMP3_TCMR" value="HC" />
-        <entry key="STM32G431xx.svd|p:PWR" value="-C" />
+        <entry key="STM32G431xx.svd|p:PWR" value="-E" />
         <entry key="STM32G431xx.svd|p:PWR|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:PWR|CR2" value="HC" />
         <entry key="STM32G431xx.svd|p:PWR|CR3" value="HC" />
@@ -724,7 +724,7 @@
         <entry key="STM32G431xx.svd|p:PWR|SCR" value="HC" />
         <entry key="STM32G431xx.svd|p:PWR|SR1" value="HC" />
         <entry key="STM32G431xx.svd|p:PWR|SR2" value="HC" />
-        <entry key="STM32G431xx.svd|p:RCC" value="-C" />
+        <entry key="STM32G431xx.svd|p:RCC" value="-E" />
         <entry key="STM32G431xx.svd|p:RCC|AHB1ENR" value="HC" />
         <entry key="STM32G431xx.svd|p:RCC|AHB1RSTR" value="HC" />
         <entry key="STM32G431xx.svd|p:RCC|AHB1SMENR" value="HC" />
@@ -755,11 +755,11 @@
         <entry key="STM32G431xx.svd|p:RCC|CSR" value="HC" />
         <entry key="STM32G431xx.svd|p:RCC|ICSCR" value="HC" />
         <entry key="STM32G431xx.svd|p:RCC|PLLSYSCFGR" value="HC" />
-        <entry key="STM32G431xx.svd|p:RNG" value="-C" />
+        <entry key="STM32G431xx.svd|p:RNG" value="-E" />
         <entry key="STM32G431xx.svd|p:RNG|CR" value="HC" />
         <entry key="STM32G431xx.svd|p:RNG|DR" value="HC" />
         <entry key="STM32G431xx.svd|p:RNG|SR" value="HC" />
-        <entry key="STM32G431xx.svd|p:RTC" value="-C" />
+        <entry key="STM32G431xx.svd|p:RTC" value="-E" />
         <entry key="STM32G431xx.svd|p:RTC|ALRMAR" value="HC" />
         <entry key="STM32G431xx.svd|p:RTC|ALRMASSR" value="HC" />
         <entry key="STM32G431xx.svd|p:RTC|ALRMBR" value="HC" />
@@ -780,7 +780,7 @@
         <entry key="STM32G431xx.svd|p:RTC|TSTR" value="HC" />
         <entry key="STM32G431xx.svd|p:RTC|WPR" value="HC" />
         <entry key="STM32G431xx.svd|p:RTC|WUTR" value="HC" />
-        <entry key="STM32G431xx.svd|p:SAI" value="-C" />
+        <entry key="STM32G431xx.svd|p:SAI" value="-E" />
         <entry key="STM32G431xx.svd|p:SAI|ACLRFR" value="HC" />
         <entry key="STM32G431xx.svd|p:SAI|ACR1" value="HC" />
         <entry key="STM32G431xx.svd|p:SAI|ACR2" value="HC" />
@@ -799,8 +799,8 @@
         <entry key="STM32G431xx.svd|p:SAI|BSR" value="HC" />
         <entry key="STM32G431xx.svd|p:SAI|PDMCR" value="HC" />
         <entry key="STM32G431xx.svd|p:SAI|PDMDLY" value="HC" />
-        <entry key="STM32G431xx.svd|p:SCB" value="-C" />
-        <entry key="STM32G431xx.svd|p:SCB_ACTLR" value="-C" />
+        <entry key="STM32G431xx.svd|p:SCB" value="-E" />
+        <entry key="STM32G431xx.svd|p:SCB_ACTLR" value="-E" />
         <entry key="STM32G431xx.svd|p:SCB_ACTLR|ACTRL" value="HC" />
         <entry key="STM32G431xx.svd|p:SCB|AFSR" value="HC" />
         <entry key="STM32G431xx.svd|p:SCB|AIRCR" value="HC" />
@@ -817,7 +817,7 @@
         <entry key="STM32G431xx.svd|p:SCB|SHPR2" value="HC" />
         <entry key="STM32G431xx.svd|p:SCB|SHPR3" value="HC" />
         <entry key="STM32G431xx.svd|p:SCB|VTOR" value="HC" />
-        <entry key="STM32G431xx.svd|p:SPI1" value="-C" />
+        <entry key="STM32G431xx.svd|p:SPI1" value="-E" />
         <entry key="STM32G431xx.svd|p:SPI1|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI1|CR2" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI1|CRCPR" value="HC" />
@@ -827,7 +827,7 @@
         <entry key="STM32G431xx.svd|p:SPI1|RXCRCR" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI1|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI1|TXCRCR" value="HC" />
-        <entry key="STM32G431xx.svd|p:SPI2" value="-C" />
+        <entry key="STM32G431xx.svd|p:SPI2" value="-E" />
         <entry key="STM32G431xx.svd|p:SPI2|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI2|CR2" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI2|CRCPR" value="HC" />
@@ -837,7 +837,7 @@
         <entry key="STM32G431xx.svd|p:SPI2|RXCRCR" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI2|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI2|TXCRCR" value="HC" />
-        <entry key="STM32G431xx.svd|p:SPI3" value="-C" />
+        <entry key="STM32G431xx.svd|p:SPI3" value="-E" />
         <entry key="STM32G431xx.svd|p:SPI3|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI3|CR2" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI3|CRCPR" value="HC" />
@@ -847,12 +847,12 @@
         <entry key="STM32G431xx.svd|p:SPI3|RXCRCR" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI3|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:SPI3|TXCRCR" value="HC" />
-        <entry key="STM32G431xx.svd|p:STK" value="-C" />
+        <entry key="STM32G431xx.svd|p:STK" value="-E" />
         <entry key="STM32G431xx.svd|p:STK|CALIB" value="HC" />
         <entry key="STM32G431xx.svd|p:STK|CTRL" value="HC" />
         <entry key="STM32G431xx.svd|p:STK|LOAD" value="HC" />
         <entry key="STM32G431xx.svd|p:STK|VAL" value="HC" />
-        <entry key="STM32G431xx.svd|p:SYSCFG" value="-C" />
+        <entry key="STM32G431xx.svd|p:SYSCFG" value="-E" />
         <entry key="STM32G431xx.svd|p:SYSCFG|CFGR1" value="HC" />
         <entry key="STM32G431xx.svd|p:SYSCFG|CFGR2" value="HC" />
         <entry key="STM32G431xx.svd|p:SYSCFG|EXTICR1" value="HC" />
@@ -863,7 +863,7 @@
         <entry key="STM32G431xx.svd|p:SYSCFG|SCSR" value="HC" />
         <entry key="STM32G431xx.svd|p:SYSCFG|SKR" value="HC" />
         <entry key="STM32G431xx.svd|p:SYSCFG|SWPR" value="HC" />
-        <entry key="STM32G431xx.svd|p:TAMP" value="-C" />
+        <entry key="STM32G431xx.svd|p:TAMP" value="-E" />
         <entry key="STM32G431xx.svd|p:TAMP|BKP0R" value="HC" />
         <entry key="STM32G431xx.svd|p:TAMP|BKP10R" value="HC" />
         <entry key="STM32G431xx.svd|p:TAMP|BKP11R" value="HC" />
@@ -903,8 +903,8 @@
         <entry key="STM32G431xx.svd|p:TAMP|MISR" value="HC" />
         <entry key="STM32G431xx.svd|p:TAMP|SCR" value="HC" />
         <entry key="STM32G431xx.svd|p:TAMP|SR" value="HC" />
-        <entry key="STM32G431xx.svd|p:TIM1" value="-C" />
-        <entry key="STM32G431xx.svd|p:TIM15" value="-C" />
+        <entry key="STM32G431xx.svd|p:TIM1" value="-E" />
+        <entry key="STM32G431xx.svd|p:TIM15" value="-E" />
         <entry key="STM32G431xx.svd|p:TIM15|AF1" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM15|AF2" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM15|ARR" value="HC" />
@@ -927,7 +927,7 @@
         <entry key="STM32G431xx.svd|p:TIM15|SMCR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM15|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM15|TISEL" value="HC" />
-        <entry key="STM32G431xx.svd|p:TIM16" value="-C" />
+        <entry key="STM32G431xx.svd|p:TIM16" value="-E" />
         <entry key="STM32G431xx.svd|p:TIM16|AF1" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM16|AF2" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM16|ARR" value="HC" />
@@ -948,7 +948,7 @@
         <entry key="STM32G431xx.svd|p:TIM16|RCR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM16|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM16|TISEL" value="HC" />
-        <entry key="STM32G431xx.svd|p:TIM17" value="-C" />
+        <entry key="STM32G431xx.svd|p:TIM17" value="-E" />
         <entry key="STM32G431xx.svd|p:TIM17|AF1" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM17|AF2" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM17|ARR" value="HC" />
@@ -999,7 +999,7 @@
         <entry key="STM32G431xx.svd|p:TIM1|SMCR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM1|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM1|TISEL" value="HC" />
-        <entry key="STM32G431xx.svd|p:TIM2" value="-C" />
+        <entry key="STM32G431xx.svd|p:TIM2" value="-E" />
         <entry key="STM32G431xx.svd|p:TIM2|AF1" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM2|AF2" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM2|ARR" value="HC" />
@@ -1030,7 +1030,7 @@
         <entry key="STM32G431xx.svd|p:TIM2|SMCR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM2|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM2|TISEL" value="HC" />
-        <entry key="STM32G431xx.svd|p:TIM3" value="-C" />
+        <entry key="STM32G431xx.svd|p:TIM3" value="-E" />
         <entry key="STM32G431xx.svd|p:TIM3|AF1" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM3|AF2" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM3|ARR" value="HC" />
@@ -1061,7 +1061,7 @@
         <entry key="STM32G431xx.svd|p:TIM3|SMCR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM3|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM3|TISEL" value="HC" />
-        <entry key="STM32G431xx.svd|p:TIM4" value="-C" />
+        <entry key="STM32G431xx.svd|p:TIM4" value="-E" />
         <entry key="STM32G431xx.svd|p:TIM4|AF1" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM4|AF2" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM4|ARR" value="HC" />
@@ -1092,7 +1092,7 @@
         <entry key="STM32G431xx.svd|p:TIM4|SMCR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM4|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM4|TISEL" value="HC" />
-        <entry key="STM32G431xx.svd|p:TIM6" value="-C" />
+        <entry key="STM32G431xx.svd|p:TIM6" value="-E" />
         <entry key="STM32G431xx.svd|p:TIM6|ARR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM6|CNT" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM6|CR1" value="HC" />
@@ -1101,7 +1101,7 @@
         <entry key="STM32G431xx.svd|p:TIM6|EGR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM6|PSC" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM6|SR" value="HC" />
-        <entry key="STM32G431xx.svd|p:TIM7" value="-C" />
+        <entry key="STM32G431xx.svd|p:TIM7" value="-E" />
         <entry key="STM32G431xx.svd|p:TIM7|ARR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM7|CNT" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM7|CR1" value="HC" />
@@ -1110,7 +1110,7 @@
         <entry key="STM32G431xx.svd|p:TIM7|EGR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM7|PSC" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM7|SR" value="HC" />
-        <entry key="STM32G431xx.svd|p:TIM8" value="-C" />
+        <entry key="STM32G431xx.svd|p:TIM8" value="-E" />
         <entry key="STM32G431xx.svd|p:TIM8|AF1" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM8|AF2" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM8|ARR" value="HC" />
@@ -1141,7 +1141,7 @@
         <entry key="STM32G431xx.svd|p:TIM8|SMCR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM8|SR" value="HC" />
         <entry key="STM32G431xx.svd|p:TIM8|TISEL" value="HC" />
-        <entry key="STM32G431xx.svd|p:UART4" value="-C" />
+        <entry key="STM32G431xx.svd|p:UART4" value="-E" />
         <entry key="STM32G431xx.svd|p:UART4|BRR" value="HC" />
         <entry key="STM32G431xx.svd|p:UART4|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:UART4|CR2" value="HC" />
@@ -1154,7 +1154,7 @@
         <entry key="STM32G431xx.svd|p:UART4|RQR" value="HC" />
         <entry key="STM32G431xx.svd|p:UART4|RTOR" value="HC" />
         <entry key="STM32G431xx.svd|p:UART4|TDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:UCPD1" value="-C" />
+        <entry key="STM32G431xx.svd|p:UCPD1" value="-E" />
         <entry key="STM32G431xx.svd|p:UCPD1|CFG1" value="HC" />
         <entry key="STM32G431xx.svd|p:UCPD1|CFG2" value="HC" />
         <entry key="STM32G431xx.svd|p:UCPD1|CR" value="HC" />
@@ -1169,7 +1169,7 @@
         <entry key="STM32G431xx.svd|p:UCPD1|TXDR" value="HC" />
         <entry key="STM32G431xx.svd|p:UCPD1|TX_ORDSET" value="HC" />
         <entry key="STM32G431xx.svd|p:UCPD1|TX_PAYSZ" value="HC" />
-        <entry key="STM32G431xx.svd|p:USART1" value="-C" />
+        <entry key="STM32G431xx.svd|p:USART1" value="-E" />
         <entry key="STM32G431xx.svd|p:USART1|BRR" value="HC" />
         <entry key="STM32G431xx.svd|p:USART1|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:USART1|CR2" value="HC" />
@@ -1182,7 +1182,7 @@
         <entry key="STM32G431xx.svd|p:USART1|RQR" value="HC" />
         <entry key="STM32G431xx.svd|p:USART1|RTOR" value="HC" />
         <entry key="STM32G431xx.svd|p:USART1|TDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:USART2" value="-C" />
+        <entry key="STM32G431xx.svd|p:USART2" value="-E" />
         <entry key="STM32G431xx.svd|p:USART2|BRR" value="HC" />
         <entry key="STM32G431xx.svd|p:USART2|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:USART2|CR2" value="HC" />
@@ -1195,7 +1195,7 @@
         <entry key="STM32G431xx.svd|p:USART2|RQR" value="HC" />
         <entry key="STM32G431xx.svd|p:USART2|RTOR" value="HC" />
         <entry key="STM32G431xx.svd|p:USART2|TDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:USART3" value="-C" />
+        <entry key="STM32G431xx.svd|p:USART3" value="-E" />
         <entry key="STM32G431xx.svd|p:USART3|BRR" value="HC" />
         <entry key="STM32G431xx.svd|p:USART3|CR1" value="HC" />
         <entry key="STM32G431xx.svd|p:USART3|CR2" value="HC" />
@@ -1208,7 +1208,7 @@
         <entry key="STM32G431xx.svd|p:USART3|RQR" value="HC" />
         <entry key="STM32G431xx.svd|p:USART3|RTOR" value="HC" />
         <entry key="STM32G431xx.svd|p:USART3|TDR" value="HC" />
-        <entry key="STM32G431xx.svd|p:USB_FS_device" value="-C" />
+        <entry key="STM32G431xx.svd|p:USB_FS_device" value="-E" />
         <entry key="STM32G431xx.svd|p:USB_FS_device|BTABLE" value="HC" />
         <entry key="STM32G431xx.svd|p:USB_FS_device|CNTR" value="HC" />
         <entry key="STM32G431xx.svd|p:USB_FS_device|DADDR" value="HC" />
@@ -1222,10 +1222,10 @@
         <entry key="STM32G431xx.svd|p:USB_FS_device|EP7R" value="HC" />
         <entry key="STM32G431xx.svd|p:USB_FS_device|FNR" value="HC" />
         <entry key="STM32G431xx.svd|p:USB_FS_device|ISTR" value="HC" />
-        <entry key="STM32G431xx.svd|p:VREFBUF" value="-C" />
+        <entry key="STM32G431xx.svd|p:VREFBUF" value="-E" />
         <entry key="STM32G431xx.svd|p:VREFBUF|VREFBUF_CCR" value="HC" />
         <entry key="STM32G431xx.svd|p:VREFBUF|VREFBUF_CSR" value="HC" />
-        <entry key="STM32G431xx.svd|p:WWDG" value="-C" />
+        <entry key="STM32G431xx.svd|p:WWDG" value="-E" />
         <entry key="STM32G431xx.svd|p:WWDG|CFR" value="HC" />
         <entry key="STM32G431xx.svd|p:WWDG|CR" value="HC" />
         <entry key="STM32G431xx.svd|p:WWDG|SR" value="HC" />
@@ -1240,44 +1240,52 @@
     <option name="productBranch" value="Classic" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2rsPPZ8nYsox6uAN6nQA41Q0TXI" />
+  <component name="ProjectId" id="2rtPNPGYxk8af5qFcWTFq8EHRqp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;OpenOCD 下载并运行.001_Led_Key.elf.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/desktop_document/001_Led_Key/CMakeLists.txt&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "OpenOCD 下载并运行.001_Led_Key.elf.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/desktop_document/001_Led_Key/STM32G431xx.svd",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CPPToolchains",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\desktop_document\001_Led_Key" />
     </key>
   </component>
   <component name="RunManager" selected="OpenOCD 下载并运行.001_Led_Key.elf">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="001_Led_Key.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="001_Led_Key" TARGET_NAME="001_Led_Key.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="001_Led_Key" RUN_TARGET_NAME="001_Led_Key.elf">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="001_Led_Key.elf" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="001_Led_Key" TARGET_NAME="001_Led_Key.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="001_Led_Key" RUN_TARGET_NAME="001_Led_Key.elf">
-      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="D:\desktop_document\001_Led_Key\dap.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+    <configuration name="001_Led_Key.elf" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="001_Led_Key" TARGET_NAME="001_Led_Key.elf" version="1" RUN_TARGET_PROJECT_NAME="001_Led_Key" RUN_TARGET_NAME="001_Led_Key.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="D:\desktop_document\001_Led_Key\cmsis-dap.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
         <debugger kind="GDB" isBundled="true" />
       </openocd>
       <method v="2">
@@ -1292,14 +1300,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="fd199740-4eef-4c52-b071-8c8f5136d599" name="更改" comment="" />
-      <created>1737344785166</created>
+      <changelist id="92ca6d1b-6253-4656-8d46-4504bfa86354" name="更改" comment="" />
+      <created>1737375358479</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1737344785166</updated>
-      <workItem from="1737344786220" duration="14493000" />
-      <workItem from="1737369078460" duration="77000" />
-      <workItem from="1737369426753" duration="1000" />
+      <updated>1737375358479</updated>
+      <workItem from="1737375364720" duration="49000" />
+      <workItem from="1737375455084" duration="605000" />
+      <workItem from="1737376073843" duration="188000" />
+      <workItem from="1737376282383" duration="460000" />
     </task>
     <servers />
   </component>
@@ -1310,12 +1319,5 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="com.jetbrains.cidr.embedded.openocd.conf.type">
-        <watch expression="scheduler_task" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
