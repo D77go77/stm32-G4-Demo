@@ -43,12 +43,15 @@ stm32-G4-Demo/
 3. **配置 CMake**：
    - 确保 CLion 中已经正确配置了 CMake。
    - 仓库中已包含必要的 CMake 配置文件。
+   - 确保 CLion 中已经正确配置了 Openocd
+   - [配置内容可参考此链接](https://zhuanlan.zhihu.com/p/145801160)
+
 
 4. **构建项目**：
    - 在 CLion 中点击 "Build" 按钮进行项目编译。
 
 5. **烧录固件**：
-   - 使用 STM32CubeProgrammer 或其他适用的工具将生成的固件烧录到 STM32 G4 开发板上。
+   - 使用 CMSIS-DAP.cfg 或其他适用的工具将生成的固件烧录到 STM32 G4 开发板上。
 
 ## 许可证
 
