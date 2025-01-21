@@ -1,0 +1,3 @@
+D:/desktop_document/004_Adc/cmake-build-debug/CMakeFiles/004_Adc.elf.dir
+D:/desktop_document/004_Adc/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/desktop_document/004_Adc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
